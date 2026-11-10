@@ -3,3 +3,7 @@ node_modules/
 _inst_utf8.tmp
 _uninst_utf8.tmp
 .DS_Store
+
+# Maintainer private scripts
+*推送到GitHub*.bat
+
