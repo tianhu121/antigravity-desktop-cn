@@ -82,5 +82,12 @@
   "Version 2.30.0": "版本 2.30.0",
   "Release Channel": "发布频道",
   "Stable": "稳定版",
-  "Beta": "测试版"
+  "Beta": "测试版",
+  "Interface Layout": "界面布局",
+  "Knowledge Work": "知识工作",
+  "Simplified interface for research, writing, and everyday tasks.": "专为研究、写作与日常任务设计的精简界面。",
+  "Simplified interface for research, writing, and everyday tasks": "专为研究、写作与日常任务设计的精简界面",
+  "Software Engineering": "软件工程",
+  "Full interface for coding, developer tools, and managing agents.": "包含代码编写、开发工具与智能体管理的完整界面。",
+  "Full interface for coding, developer tools, and managing agents": "包含代码编写、开发工具与智能体管理的完整界面"
 }

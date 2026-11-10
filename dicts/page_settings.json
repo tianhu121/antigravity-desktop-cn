@@ -347,5 +347,12 @@
   "Reset to Default": "重置为默认值",
   "Reset to Defaults": "重置为默认值",
   "Reset All to Defaults": "全部重置为默认值",
-  "Reset All to Default": "全部重置为默认值"
+  "Reset All to Default": "全部重置为默认值",
+  "Interface Layout": "界面布局",
+  "Knowledge Work": "知识工作",
+  "Simplified interface for research, writing, and everyday tasks.": "专为研究、写作与日常任务设计的精简界面。",
+  "Simplified interface for research, writing, and everyday tasks": "专为研究、写作与日常任务设计的精简界面",
+  "Software Engineering": "软件工程",
+  "Full interface for coding, developer tools, and managing agents.": "包含代码编写、开发工具与智能体管理的完整界面。",
+  "Full interface for coding, developer tools, and managing agents": "包含代码编写、开发工具与智能体管理的完整界面"
 }
